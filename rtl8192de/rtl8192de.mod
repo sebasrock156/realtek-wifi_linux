@@ -1,0 +1,2 @@
+/home/sebasrock156/rtlwifi_new-master/rtl8192de/dm.o /home/sebasrock156/rtlwifi_new-master/rtl8192de/fw.o /home/sebasrock156/rtlwifi_new-master/rtl8192de/hw.o /home/sebasrock156/rtlwifi_new-master/rtl8192de/led.o /home/sebasrock156/rtlwifi_new-master/rtl8192de/phy.o /home/sebasrock156/rtlwifi_new-master/rtl8192de/rf.o /home/sebasrock156/rtlwifi_new-master/rtl8192de/sw.o /home/sebasrock156/rtlwifi_new-master/rtl8192de/table.o /home/sebasrock156/rtlwifi_new-master/rtl8192de/trx.o
+

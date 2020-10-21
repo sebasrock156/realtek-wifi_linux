@@ -1,4 +1,4 @@
-rtlwifi_new
+realtek-wifi_linux (by lwfinger)
 ===========
 ### A repo for the newest Realtek rtlwifi codes.
 
@@ -27,7 +27,7 @@ If you are running Ubuntu, then
 
 Please note the first paragraph above.
 
-For all distros:
+For all distros (based on Ubuntu 16.04 or Linux 4.1x Kernel only):
 git clone https://github.com/lwfinger/rtlwifi_new.git
 cd rtlwifi_new
 make

@@ -15,11 +15,14 @@ rtl8192ce, rtl8192cu, rtl8192se, rtl8192de, rtl8188ee, rtl8192ee, rtl8723ae, rtl
 rtl8822be and rtl8723de.
 
 #### Installation instruction
-You can find <<YOUR WIRELESS DRIVER CODE>> (means RTLxxxx) using <<lspci | grep Wireless>> instruction.
+You can find <<YOUR WIRELESS DRIVER CODE>> (means RTLxxxx) using 
+<<lspci | grep Wireless>> instruction.
 Afterwards, execute the following lines of codes in your shell:  
   
 ```
-You will need to install "make" (included in almost all distros), "gcc" (install using "g++" argument), "kernel headers & kernel build essentials" (The both aren't necessary, but, if your distro support old Kernel 4.1x versions, try it), and "git".
+You will need to install "make" (included in almost all distros), "gcc" (install using "g++" argument),
+"kernel headers & kernel build essentials" (The both aren't necessary, but, if your distro 
+support old Kernel 4.1x versions, try it), and "git".
 
 If you are running Ubuntu, then
 
@@ -27,7 +30,9 @@ If you are running Ubuntu, then
 
 Please note the first paragraph above.
 
-For all distros (based on Ubuntu 16.04-18.04 or Linux 4.1x Kernel, but works partially on Ubuntu 19-20.xx or Linux 5.x Kernels):
+For all distros (based on Ubuntu 16.04-18.04 or Linux 4.1x Kernel, 
+but works partially on Ubuntu 19-20.xx or Linux 5.x Kernels):
+
 git clone https://github.com/sebasrock156/realtek-wifi_linux.git
 cd rtlwifi_new
 make

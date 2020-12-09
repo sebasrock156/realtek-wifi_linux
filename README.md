@@ -15,8 +15,8 @@ rtl8192ce, rtl8192cu, rtl8192se, rtl8192de, rtl8188ee, rtl8192ee, rtl8723ae, rtl
 rtl8822be and rtl8723de.
 
 #### Installation instruction
-You can find <<YOUR WIRELESS DRIVER CODE>> using 
-<<lspci | grep Wireless>> instruction.
+You can find <<YOUR WIRELESS DRIVER CODE>> (means RTLxxxx)using 
+´lspci | grep Wireless´ instruction.
 Afterwards, execute the following lines of codes in your shell:  
   
 ```
